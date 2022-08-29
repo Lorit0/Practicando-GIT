@@ -4,4 +4,4 @@ Practicando GIT con el grupo BF
 
 ## Integrantes
 
-### Pedro Perez
+### Pedro Perez Martinez
